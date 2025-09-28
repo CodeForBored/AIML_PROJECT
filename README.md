@@ -78,14 +78,16 @@ AIML_PROJECT/
 │── train_task1_improv.py
 │── requirements.txt
 │── README.md
-│── task1_improved_outputs/
-├── rf_tuned_final.joblib
-├── rf_tuned_final_metadata.json
-├── test_predictions_with_threshold.csv
-├── classifier_top15_importances.png
-├── roc_tuned_rf.png
-├── pr_curve_tuned_rf.png
-├── regression_actual_vs_predicted.png
+│── task1_outputs/
+    ├── classifier_top15_importances.png
+    ├── pr_curve_tuned_rf.png
+    ├── roc_tuned_rf.png
+    ├── regression_actual_vs_predicted.png
+    ├── regressor_top15_importances.png
+    ├── test_predictions_with_threshold.csv
+    ├── tuned_rf_threshold_report.csv
+    └── ...
+g
 ├── regressor_top15_importances.png
 ├── xgb_baseline.joblib
 └── ...
