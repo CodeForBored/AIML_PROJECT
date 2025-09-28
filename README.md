@@ -1,6 +1,3 @@
-# AIML_PROJECT
-Employee Attrition — Random Forest
-
 # AIML_PROJECT — Employee Attrition & Performance Prediction
 
 ## 📌 Project Summary
