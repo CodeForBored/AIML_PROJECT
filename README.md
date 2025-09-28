@@ -73,3 +73,19 @@ Top features influencing attrition:
 ---
 
 ## 📂 Repository Structure
+AIML_PROJECT/
+│── Employee_Performance_Retention.csv
+│── train_task1_improv.py
+│── requirements.txt
+│── README.md
+│── task1_improved_outputs/
+├── rf_tuned_final.joblib
+├── rf_tuned_final_metadata.json
+├── test_predictions_with_threshold.csv
+├── classifier_top15_importances.png
+├── roc_tuned_rf.png
+├── pr_curve_tuned_rf.png
+├── regression_actual_vs_predicted.png
+├── regressor_top15_importances.png
+├── xgb_baseline.joblib
+└── ...
