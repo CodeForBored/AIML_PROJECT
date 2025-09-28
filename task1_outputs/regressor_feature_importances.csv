@@ -1,0 +1,15 @@
+feature,importance
+Monthly_Working_Hours,0.23470928582884693
+Training_Hours_per_Year,0.19936080842659995
+Years_of_Experience,0.18319373346283488
+Age,0.1771664289617498
+Attrition,0.024772670735295103
+Department_Finance,0.022497247268364252
+Department_Tech,0.020770095637788772
+Job_Satisfaction_Level_Medium,0.020648051903834536
+Department_Operations,0.020482898822336476
+Department_Sales,0.0198121380155944
+Department_HR,0.01980339760227139
+Job_Satisfaction_Level_Low,0.019781058588977943
+Promotion_in_Last_2_Years,0.018730073433177497
+Job_Satisfaction_Level_High,0.018272111312328206
